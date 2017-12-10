@@ -21,6 +21,9 @@ body{
   grid-gap: 10px;
   grid-auto-rows: minmax(100px, auto);
 }
+/*.text{
+  
+}*/
 /*Grid cells placement*/
 .one {
   grid-column: 1 / 3;
